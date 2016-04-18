@@ -1,0 +1,4 @@
+*.json
+configs/
+shadowsocks-local*
+nohup.out
